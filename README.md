@@ -1,5 +1,5 @@
-# Budgetmaster3
-<!DOCTYPE html>
+# Budget Master
+
 <html lang="da">
 <head>
 <meta charset="UTF-8"/>
